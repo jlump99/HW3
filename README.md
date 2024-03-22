@@ -1,6 +1,6 @@
 # HW3
 
-Here is my model, must unzip: (https://drive.google.com/file/d/1HOyxXpouiKzi0DHUG02Cw7C9pHLLwL_y/view?usp=sharing)[https://drive.google.com/file/d/1HOyxXpouiKzi0DHUG02Cw7C9pHLLwL_y/view?usp=sharing]
+Here is my model, must unzip: [https://drive.google.com/file/d/1HOyxXpouiKzi0DHUG02Cw7C9pHLLwL_y/view?usp=sharing]
 
 
 To run:
